@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Victor Santana 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7copas__/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/V_dream3r)
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=7copass&show_icons=true&theme=dracula&count_private=true)
 [![7copass](https://github-readme-stats.vercel.app/api/top-langs/?username=7copass&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
